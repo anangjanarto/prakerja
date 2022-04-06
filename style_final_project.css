@@ -1,0 +1,193 @@
+h1{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.gambar-diri{
+    height: auto;
+    width: 50%;
+    margin-left: 150px;
+}
+
+.box-dua{
+    background: red;
+    height: 100px;
+    width: 600px;
+    margin-left: 70px;
+}
+
+h2{
+    text-align: left;
+}
+
+h3{
+    text-align: center;
+}
+
+.logo{
+    height: 25px;
+    width: 25px;
+}
+
+.kotak-satu{
+    background-image: url('../gambar/bg4.jpeg');
+    height: auto;
+    width: auto;
+}
+
+.kotak-dua{
+    background-image: url('../gambar/bg5.jpeg');
+    height: auto;
+    width: auto;
+}
+
+.teks1{
+    color:brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.tulisan_dua{
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.tulisan_tiga{
+    color: black;
+    font-family: fantasy;
+    font-style: oblique;
+}
+
+.link{
+    font-size: 20pt;
+}
+
+.link:hover{
+    color: red;
+}
+
+.link:link{
+    color: blue;
+}
+
+.link:active{
+    color: green;
+}
+
+.link:visited{
+    background: yellow;
+}
+
+.tulisan_kiri{
+    color: black;
+    text-align: left;
+}
+
+.tulisan_kanan{
+    color: brown;
+    text-align: right;
+}
+
+.tulisan_tengah{
+    color: aqua;
+    text-align: center;
+}
+
+.tulisan_justify{
+    color: blue;
+    text-align: justify;
+}
+
+.kotak1{
+    background: blue;
+    position: absolute;
+    left: 40px;
+    padding: 10px;
+}
+
+.kotak2{
+    background: green;
+    position: relative;
+    left: 40px;
+    padding: 10px;
+}
+
+.kotak3{
+    background: red;
+    position: static;
+    left: 40px;
+    padding: 10px;
+}
+
+.kotak4{
+    background: hotpink;
+    position: fixed;
+    left: 40px;
+    padding: 10px;
+}
+
+#garis_1{
+    border-style: solid;
+}
+
+#garis_2{
+    border-style: dotted;
+}
+
+#garis_3{
+    border-style: dashed;
+}
+
+#garis_4{
+    border-style: double;
+}
+
+#garis_5{
+    border-style: groove;
+}
+
+#garis_6{
+    border-style: inset;
+}
+
+#garis_7{
+    border-style: outset;
+}
+
+#garis_8{
+    border-style: ridge;
+}
+
+.tulisan_saya{
+    color: azure;
+    font-size: 28px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+ul.transportasi{
+    list-style-type: square;
+}
+
+ul.lokasi{
+    list-style-type: circle;
+}
+
+ul.merk{
+    list-style-type: upper-roman;
+}
+
+.tabel{
+    text-align: left;
+    background-color: white;
+}
+
+ul.biodata{
+    list-style-type: armenian;
