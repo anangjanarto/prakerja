@@ -32,13 +32,13 @@ h3{
 }
 
 .kotak-satu{
-    background-image: url('bg4.jpeg');
+    background-image: url('../gambar/bg4.jpeg');
     height: auto;
     width: auto;
 }
 
 .kotak-dua{
-    background-image: url('bg5.jpeg');
+    background-image: url('../gambar/bg5.jpeg');
     height: auto;
     width: auto;
 }
