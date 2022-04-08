@@ -172,7 +172,7 @@ h3{
     text-align: center;
 }
 @media (min-width: 768px){
-    .col{
+    .kolom{
         flex: 0 0 50%;
     }
 }
