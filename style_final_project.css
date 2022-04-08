@@ -32,13 +32,13 @@ h3{
 }
 
 .kotak-satu{
-    background-image: url('bg4.jpeg');
+    background-image: url('../gambar/bg4.jpeg');
     height: auto;
     width: auto;
 }
 
 .kotak-dua{
-    background-image: url('bg5.jpeg');
+    background-image: url('../gambar/bg5.jpeg');
     height: auto;
     width: auto;
 }
@@ -48,7 +48,7 @@ h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
     text-align: left;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 .tulisan_dua{
@@ -167,13 +167,12 @@ h3{
 
 .tulisan_saya{
     color: azure;
-    font-size: 20px;
-    font-family:'Times New Roman';
+    font-size: 28px;
+    font-family:'Times New Roman', Times, serif;
     text-align: center;
 }
-
-.tabel{
-    text-align: left;
-    background-color: white;
+@media (min-width: 768px){
+    .col{
+        flex: 0 0 50%;
+    }
 }
-
